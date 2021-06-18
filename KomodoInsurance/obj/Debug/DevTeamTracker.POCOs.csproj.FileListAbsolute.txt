@@ -1,0 +1,2 @@
+C:\ElevnFiftyAcadomy\assignmetns\BasicHTMLTags\BasketballTeamTracker\KomodoInsurance\obj\Debug\DevTeamTracker.POCOs.csprojAssemblyReference.cache
+C:\ElevnFiftyAcadomy\assignmetns\BasicHTMLTags\BasketballTeamTracker\KomodoInsurance\obj\Debug\DevTeamTracker.POCOs.csproj.CoreCompileInputs.cache
